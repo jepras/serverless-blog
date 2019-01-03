@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "my-serverless-blog",
+    "staging": "my-serverless-blog"
+  }
+}
